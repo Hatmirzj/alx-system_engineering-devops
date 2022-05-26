@@ -1,2 +1,8 @@
 #!/bin/bash
 ls -apm | sort -d
+
+#-a for all
+#-p put
+#-m comma
+
+#sort-d sort from small to large

@@ -1,2 +1,2 @@
 #!/bin/bash
-chown vincent:staff hello README.md [0..103]
+chown -R vincent:staff *./
